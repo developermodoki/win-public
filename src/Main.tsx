@@ -6,8 +6,8 @@ const Col1 = ():JSX.Element => {
         <div>
             <div className="col"><h1>About</h1></div>
             <div className="maintext">
-                Staff of <a href="https://dsc.gg/scratchjp">Scratch(JP)</a> <br />
-                Student/Scratcher
+                a Student<br />
+                a Scratcher
             </div>
         </div>
     );
@@ -35,7 +35,6 @@ const Col3 = ():JSX.Element => {
             <div className="icons">
                 <a href="https://twitter.com/developermodoki"><i className="fa-brands fa-twitter fa-3x iconLink"/></a>
                 <a href="https://github.com/developermodoki"><i className="fa-brands fa-github fa-3x iconLink"/></a>
-                <a href="https://dsc.gg/Scratchjp"><i className="fa-brands fa-discord fa-3x iconLink"/></a>
                 <p>Other: <a href="https://scratch.mit.edu/users/Windows1000000_2">Scratch</a></p>
             </div>
         </div>
