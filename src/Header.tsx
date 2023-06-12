@@ -1,5 +1,3 @@
-import React from "react";
-
 const Header = ():JSX.Element => {
     return (
       <div id='headerComponent'>
@@ -7,6 +5,6 @@ const Header = ():JSX.Element => {
         <div className='underline' />
       </div>
     );
-}
+};
 
 export default Header;

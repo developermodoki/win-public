@@ -5,3 +5,83 @@ body {
   color:#fff;
 }
 
+
+/* moved from App.css */
+.App {
+  margin-top:40px;
+}
+
+.container {
+  padding-left:25%;
+  padding-right:25%;
+}
+
+.header {
+  font-size: 200%;
+  margin-bottom:7px;
+}
+
+.underline {
+  border-bottom: 6px solid;
+  border-color: #009914;
+}
+
+.main {
+  margin-top:30px;
+}
+
+.col {
+  margin-top:30px;
+  border:2px solid;
+  border-left-width: 6px;
+  border-bottom: transparent;
+  border-top: transparent;
+  border-right: transparent;
+  border-color: #009914;
+}
+
+.col h1 {
+  padding-left: 15px;
+  margin:0;
+}
+
+.maintext {
+  margin-top:20px;
+  font-size: 130%;
+}
+
+.icons {
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.fa-brands {
+  margin-left:15px;
+}
+
+.iconLink:hover, .iconLink:active, .iconLink:before, .iconLink:visited {
+  color:white;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #0266b8;
+}
+
+.footer {
+  display: flex;
+  margin-top:10px;
+  margin-bottom:30px;
+  font-size: smaller;
+  color:#8a8888;
+}
+
+.footerCopyright {
+  margin-right:auto;
+}
+
+@media screen and (max-width: 850px) {
+  .container {
+     padding-left: 10%;
+     padding-right: 10%;
+  }
+}
