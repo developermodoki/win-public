@@ -35,7 +35,7 @@ const Col3 = ():JSX.Element => {
             <div className="icons">
                 <a href="https://twitter.com/developermodoki"><i className="fa-brands fa-twitter fa-3x iconLink"/></a>
                 <a href="https://github.com/developermodoki"><i className="fa-brands fa-github fa-3x iconLink"/></a>
-                <p>Other: <a href="https://scratch.mit.edu/users/Windows1000000_2">Scratch</a></p>
+                <p>Other: <a href="https://scratch.mit.edu/users/Win_Reborn">Scratch</a></p>
             </div>
         </div>
     );
