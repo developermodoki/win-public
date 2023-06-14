@@ -1,6 +1,3 @@
-import React from "react";
-
-
 const Col1 = ():JSX.Element => {
     return (
         <div>
